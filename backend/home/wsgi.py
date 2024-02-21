@@ -7,10 +7,7 @@ For more information on this file, see
 https://docs.djangoproject.com/en/4.0/howto/deployment/wsgi/
 """
 
-#importing os ->Handling the Current Working Directory
-#Creating a Directory
-#Listing out Files and Directories with Python
-#Deleting Directory or Files using Python
+
 import os
 
 from django.core.wsgi import get_wsgi_application
